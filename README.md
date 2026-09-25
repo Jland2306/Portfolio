@@ -24,7 +24,7 @@ Development student at RIT looking for a Summer 2027 co-op or internship.
 
 I'm a Game Design & Development student at RIT thats works comfortably across both game development and general software engineering. My projects range from engine-based games in Unity, Godot, and MonoGame to full-stack web apps built with Node.js and Angular. I enjoy building things end-to-end, from UI systems and gameplay mechanics, to backend APIs and AI-powered tooling.
 
-I'm currently seeking a **Summer 2027 co-op or internship** where I can contribute to production software and keep growing as an engineer.
+I'm currently seeking a **Summer 2027 co-op or internship** where I can develop games or contribute to production software in order to keep growing as an developer.
 
 ---
 
