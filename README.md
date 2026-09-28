@@ -1,7 +1,7 @@
 # Jordan Landversicht's - Portfolio
 
 A personal portfolio site I made for myself, a Game Design &
-Development student at RIT looking for a Summer 2027 or internship.
+Development student at RIT looking for a Summer 2027 co-op or internship.
 
 [Visit the site here ->](http://jland2306.github.io/Portfolio/)
 
