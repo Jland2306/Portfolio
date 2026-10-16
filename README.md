@@ -177,4 +177,4 @@ directory `dist`.
   true SSR/streaming, which is out of scope for a static, backend-free
   build.
 
-No console errors on any route; no horizontal overflow from 320px up.
+
