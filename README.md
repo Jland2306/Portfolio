@@ -7,7 +7,16 @@ Development student at RIT looking for a Summer 2027 co-op or internship.
 
 ## Stack
 
-
+- Vite + React + TypeScript
+- Tailwind CSS v4 for layout/tokens, hand-written CSS for the skew, torn
+  clip-path, halftone, and offset-shadow primitives (`src/index.css`)
+- [motion](https://motion.dev) (Framer Motion) for the route wipe, nav,
+  hero, and project-detail panel
+- react-router-dom
+- `@fontsource` self-hosted fonts (Anton, Barlow, Permanent Marker) — no
+  CDN font requests
+- No backend, no CMS. All content lives in typed data files under
+  `src/data/`.
 
 ---
 
