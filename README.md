@@ -35,20 +35,20 @@ I'm currently seeking a **Summer 2027 co-op or internship** where I can develop 
 **[Fortunes Tower](https://github.com/dfs5974/Winter2026)** · Unity · *Jan 2025 – Present*
 Third-person RPG built with a three-person team, featuring exploration, quests, and player progression. I designed and implemented core UI systems like the menus, inventory management, and quest tracking. Making sure each mechanic was modular, scalable components.
 
-**[Tall Boy and the Lurking Legend](https://github.com/Jland2306/Tall-Boy-and-The-Lurking-Legend)** · Unity · *Oct 2025*
-Horror survival game shipped for **Scream Jam 2025** under a strict 3-day deadline. Led the menu systems and complete UI, engineering intuitive flows that guide players through core mechanics.
-
 **[Stellar Rampage](https://github.com/Jland2306/Stellar-Rampage)** · MonoGame · *Feb 2025 – May 2025*
 Space-themed shoot 'em up with custom mechanics, upgrades, and interactive menus. Collaborated with a team of 4 on the game's UI/UX; presented to a group of 20 for playtesting and iteration.
-
-**[Drive Until Impact](https://github.com/AwesomeAnthonyJr/DriveUntilImpact)** · Godot · *Sept 2025*
-Game jam entry for Untitled Game Jam #116 with original sprites and a cohesive HUD. **Top-10 finish (9th place overall)** out of the field.
 
 **[JDM Garage](https://github.com/Jland2306/JDM-Garage)** · Maya · Substance Painter · Unity · *Dec 2025*
 Explorable first-person 3D garage environment. Modeled every asset from scratch in Maya, textured them in Adobe Substance Painter, and integrated the full art pipeline into Unity solo.
 
 **[Artic Dodge](https://github.com/Jland2306/Artic-Dodge)** · Pixi.js · *Nov 2025 – Dec 2025*
 Solo browser-based endless runner with a complete game-state system (start, gameplay, game-over) and a score system built to drive replayability.
+
+**[Tall Boy and the Lurking Legend](https://github.com/Jland2306/Tall-Boy-and-The-Lurking-Legend)** · Unity · *Oct 2025*
+Horror survival game shipped for **Scream Jam 2025** under a strict 3-day deadline. Led the menu systems and complete UI, engineering intuitive flows that guide players through core mechanics.
+
+**[Drive Until Impact](https://github.com/AwesomeAnthonyJr/DriveUntilImpact)** · Godot · *Sept 2025*
+Game jam entry for Untitled Game Jam #116 with original sprites and a cohesive HUD. **Top-10 finish (9th place overall)** out of the field.
 
 **[Penguin Platformer](https://github.com/Jland2306/Penguin-Platformer)** · Godot · Aseprite · *Apr 2025*
 Solo 2D platformer with a hand-built character sprite sheet, animations, and reusable models created in Aseprite and implemented in Godot.
